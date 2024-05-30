@@ -22037,7 +22037,8 @@
       "alpha_two_code": "BR",
       "state-province": null,
       "domains": [
-          "mackenzie.br"
+          "mackenzie.br",
+          "mackenzista.com.br"
       ],
       "country": "Brazil"
   },
@@ -37688,7 +37689,8 @@
       "alpha_two_code": "FR",
       "state-province": null,
       "domains": [
-          "cesi.fr"
+          "cesi.fr",
+          "viacesi.fr"
       ],
       "country": "France"
   },
@@ -120423,5 +120425,85 @@
             "myara.ara.ac.nz"
         ],
         "country": "New Zealand"
+    },
+       {
+        "web_pages": [
+            "https://www.unah.edu.hn/"
+        ],
+        "name": "Universidad Nacional Autónoma de Honduras",
+        "alpha_two_code": "HN",
+        "state-province": null,
+        "domains": [
+            "uhah.edu.hn"
+        ],
+        "country": "Honduras"
+    },
+       {
+        "web_pages": [
+            "https://www.uca.ma"
+        ],
+        "name": "Cadi Ayyad University",
+        "alpha_two_code": "MA",
+        "state-province": null,
+        "domains": [
+            "https://www.uca.ma"
+        ],
+        "country": "Morocco"
+    },
+          {
+        "web_pages": [
+            "https://www.univpm.it"
+        ],
+        "name": "Marche Polytechnic University",
+        "alpha_two_code": "IT",
+        "state-province": null,
+        "domains": [
+            "https://www.univpm.it"
+        ],
+        "country": "Italy"
+    },
+     {
+        "web_pages": [
+            "http://educacao.ba.gov.br/",
+            "https://goias.gov.br/educacao/",
+            "http://educacao.rr.gov.br/",
+            "https://educacao.rs.gov.br/inicial"
+
+        ],
+        "name": "Brazilian state's education secreteriats",
+        "alpha_two_code": "BR",
+        "state-province": null,
+        "domains": [
+            "rs.gov.br",
+            "rr.gov.br",
+            "goias.gov.br",
+            "ba.gov.br"
+
+        ],
+        "country": "Brazil"
+    },
+       {
+        "web_pages": [
+            "https://cefet-rj.br/"
+        ],
+        "name": "Federal Center for Technological Education of Rio de Janeiro",
+        "alpha_two_code": "BR",
+        "state-province": null,
+        "domains": [
+            "cefet-rj.br"
+        ],
+        "country": "Brazil"
+    },
+           {
+        "web_pages": [
+            "https://lpnu.ua"
+        ],
+        "name": "Lviv Polytechnic National University",
+        "alpha_two_code": "UA",
+        "state-province": null,
+        "domains": [
+            "lpnu.ua"
+        ],
+        "country": "Ukraine"
     }
 ]
